@@ -12,7 +12,7 @@ It can help you to manage your plans. You can add, like, save and delete notes i
 
 ## Screenshots:
 
-![]()
-![]()
-![]()
+![](https://github.com/novak-k/to-do-list-app/blob/master/screenshots/1.png)
+![](https://github.com/novak-k/to-do-list-app/blob/master/screenshots/2.png)
+![](https://github.com/novak-k/to-do-list-app/blob/master/screenshots/3.png)
 
